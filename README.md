@@ -25,6 +25,13 @@ segmentation and trend identification across a full calendar year.
 All personally identifiable information removed in compliance with 
 data protection requirements.
 
+### Sales Performance Dashboard — Power BI
+Multi-page Power BI dashboard analyzing sales performance across 
+European markets. KPI tracking, profit margin analysis by category, 
+geographical distribution and year-over-year trend analysis.
+Built during professional training — IOA Sri Lanka Chapter.
+📁 [View Dashboard](power-bi-sales-analysis/)
+
 ### Image Data Exploration
 Data exploration project covering image dataset loading, visualization 
 and analysis techniques — Data Engineering module, University of 
