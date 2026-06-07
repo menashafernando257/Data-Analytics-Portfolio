@@ -45,7 +45,7 @@ Data Engineering module, University of Westminster.
 ## Currently Building
 - Power BI dashboard projects
 - SQL analysis projects
-- GitHub Pages portfolio website
+- Personal portfolio website — menashafernando257.github.io (in progress)
 
 ## Connect With Me
 - LinkedIn:http://linkedin.com/in/menashafernando
