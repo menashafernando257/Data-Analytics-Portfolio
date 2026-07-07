@@ -19,7 +19,7 @@ business analytics and strategy consulting.
 
 ### Customer Complaint Analysis — Leading Automotive Distributor (Sri Lanka)
 Comprehensive analysis of over 1,200 customer complaints across 
-multiple service divisions. Built a report covering 
+Built a report covering 
 SLA compliance tracking, priority tier analysis, mileage-based 
 segmentation and trend identification across a full calendar year. 
 All personally identifiable information removed in compliance with 
